@@ -1,0 +1,18 @@
+{
+    "name":"Wallpaper App",
+    "short_name":"wallpaper",
+    "start_url":"/wallpaper-responsiveOnepage-master/index.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE9D2",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/wallpaper-responsiveOnepage-master/s1.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        }
+         
+        
+    ] 
+}
